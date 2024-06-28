@@ -1,6 +1,7 @@
 # MIUI AlwaysOn
 
-![](MIUI-AlwaysOn-1500px.jpg)
+![](MIUI-AlwaysOn-1500px.jpg)  
+![](https://img.shields.io/github/downloads/adriaanjelle/MIUI-AlwaysOn/total?style=for-the-badge&labelColor=032343&color=032343)
 
 Heavily inspired by the always-on display on my Poco F3 back when I had MIUI installed on it. I've tried to recreate the battery icon as well as possible, and there are three different styles for the icon. Obviously, the battery icon only works properly on laptops.
 
